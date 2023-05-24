@@ -4,7 +4,7 @@
 <p align="center"><img width="418" alt="minitop_first" src="https://github.com/dbdbais/dbdbais/assets/99540674/635d89e0-58a3-471b-a801-7ed40766a720"><p>
 <p align="center"><img width="391" alt="minitop_final" src="https://github.com/dbdbais/Team-Project/assets/99540674/e3286eca-8f05-4459-a8f8-9f08a41e5969"><p>
 
-## 3. TestCase 실행화면
+## 3. TestCase 실행결과
 
 **<p align="center">test1<p>**
 
