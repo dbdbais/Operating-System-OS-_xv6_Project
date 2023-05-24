@@ -1,6 +1,6 @@
 # Project#3  Stack Growth
 ## 1. 구현: allocuvm_stack, copyuvm, pagefault, Stack
-## 2. TestCase 실행화면
+## 2. TestCase 실행결과
 
 **<p align="center">[Test 1~ 5]<p>**
 
