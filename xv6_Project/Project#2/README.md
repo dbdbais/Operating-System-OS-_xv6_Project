@@ -1,4 +1,4 @@
-# Priority Scheduler
+# Project#2  Priority Scheduler
 ## 1. 구현: getnice, setnice, ps ,minitop.c 
 ## 2. Minitop 실행결과
 <p align="center"><img width="418" alt="minitop_first" src="https://github.com/dbdbais/dbdbais/assets/99540674/635d89e0-58a3-471b-a801-7ed40766a720"><p>
