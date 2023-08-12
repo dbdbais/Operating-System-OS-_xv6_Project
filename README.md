@@ -12,10 +12,10 @@ xv6은 멀티프로세서 x86 및 RISC-V 시스템을 위한 제6판 유닉스�
 ## Project #2 [Scheduling]
 프로세스의 상태에 대해 이해하고, 프로세스에 우선순위인 nice 값을 추가해 Round-Robin 형식으로 구현된 xv6 Scheduler를 Priority-Based Scheduler로 변환한다. 테스트 케이스를 통해 올바르게 구현되었는지 확인할 수 있다.
 
-## Project #3
+## Project #3 [Stack Growth]
 OS가 메모리를 할당할 때 사용하는 대표적인 기법인 Paging 기법을 xv6에서 메모리공간을 효율적으로 쓸 수 있게 구현한다. 기존에 구현되어 있지 않은 pageFault나 스택의 특징을 참고하여 메모리공간을 핸들링한다. 테스트 케이스를 통해 올바르게 구현되었는지 확인할 수 있다. 
 
-## Project #4
+## Project #4 [Copy On Write]
 xv6에 여러 페이지를 같이 참조할 수 있게 페이지를 참조하는 referenceCount를 추가로 구현한다. 테스트 케이스를 통해 올바르게 구현되었는지 확인할 수 있다. 
 
 
