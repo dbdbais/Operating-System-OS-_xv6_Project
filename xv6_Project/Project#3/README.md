@@ -4,7 +4,8 @@
 
 **<p align="center">[Test 1~ 5]<p>**
 
-![StackGrowth](https://github.com/dbdbais/Team-Project/assets/99540674/4dda39cb-e3e7-4657-94b4-1a8f176f711e)
+![StackGrowth](https://github.com/dbdbais/Operating_System-xv6_Project/assets/99540674/0d0f9c6f-a29e-4f62-8b58-aac7b481b4a1)
+
 
 
 
